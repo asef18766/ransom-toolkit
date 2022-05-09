@@ -1,4 +1,4 @@
-package com.asef18766.RansomToolkit;
+package com.asef18766.ransomtoolkit;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

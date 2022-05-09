@@ -1,4 +1,4 @@
-package com.asef18766.RansomToolkit;
+package com.asef18766.ransomtoolkit;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.asef18766.RansomToolkit", appContext.getPackageName());
+        assertEquals("com.asef18766.ransomtoolkit", appContext.getPackageName());
     }
 }
